@@ -8,5 +8,5 @@
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/-5f85bb?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 RCEcom#7531
 
-## I'm studying reversing and algorithms now.😀
+## I'm study reversing and algorithms now.😀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCEcom&show_icons=true&theme=radical)
