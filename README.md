@@ -8,5 +8,5 @@
 RCEcom#7531
 
 ## I'm study computer security and algorithms now.😀  
-## [My blog](https://mankind.tistory.com/)
+## [My blog](https://mankind.tistory.com/) << Click!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCEcom&show_icons=true&theme=radical)
